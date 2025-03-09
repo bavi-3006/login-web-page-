@@ -51,9 +51,17 @@ Click Logout to return to the login page.
 
 
 
+## 📸 Screenshots  
 
+### 🏠 Login Page  
+![Login Page](image/login%20page.jpg)
 
+### 📝 Register Page  
+![Register Page](image/register%20page.jpg)
 
+### forgot password page 
+
+![reset password ](image/reset%20password.jpg)
 
 
 
